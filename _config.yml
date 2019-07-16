@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Annie
 tagline:          annie's blog
-description:      learning notes#'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      learning notes
 url:              https://joe-annie.github.io/
 baseurl:          /
 
@@ -22,4 +22,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/Joe-annie/joe-annie.github.io
