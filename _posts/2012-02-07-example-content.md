@@ -1,5 +1,5 @@
 ---
-layout: post
+https://www.fast.ai/https://www.fast.ai/layout: post
 title: Example content
 ---
 
